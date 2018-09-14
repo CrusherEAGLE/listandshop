@@ -1,0 +1,508 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="icons">
+        <item>@drawable/cart</item> //0
+        <item>@drawable/almondbutter</item> //1
+        <item>@drawable/amilk</item> //2
+        <item>@drawable/almond</item> //3
+        <item>@drawable/tomato</item> //4
+        <item>@drawable/tin</item> //5
+        <item>@drawable/amaranth</item>//6
+        <item>@drawable/anise</item> //7
+        <item>@drawable/antacid</item> //8
+        <item>@drawable/antibiotic</item> //9
+        <item>@drawable/deodorant</item> //10
+        <item>@drawable/acider</item> //11
+        <item>@drawable/ajuice</item> //12
+        <item>@drawable/avinegar</item> //13
+        <item>@drawable/apple</item> //14
+        <item>@drawable/asauce</item> //15
+        <item>@drawable/apricot</item> //16
+        <item>@drawable/artichoke</item> //17
+        <item>@drawable/arugula</item>//18
+        <item>@drawable/asparagus</item> //19
+        <item>@drawable/aspirin</item> //20
+        <item>@drawable/tomato</item> //21
+        <item>@drawable/avocado</item> //22
+        <item>@drawable/bcarrot</item> //23
+        <item>@drawable/bfood</item> //24
+        <item>@drawable/bwash</item> //25
+        <item>@drawable/bagels</item> //26
+        <item>@drawable/baguette</item> //27
+        <item>@drawable/beans</item> //28
+        <item>@drawable/bpowder</item> //29
+        <item>@drawable/bsoda</item>//30
+        <item>@drawable/bvinegar</item> //31
+        <item>@drawable/bshoots</item> //32
+        <item>@drawable/banana</item> //33
+        <item>@drawable/bandaid</item> //34
+        <item>@drawable/barley</item> //35
+        <item>@drawable/basil</item> //36
+        <item>@drawable/bcleaner</item> //37
+        <item>@drawable/battery</item> //38
+        <item>@drawable/bleaf</item> //39
+        <item>@drawable/bbq</item> //40
+        <item>@drawable/beef</item> //41
+        <item>@drawable/beets</item>//42
+        <item>@drawable/bpeppers</item> //43
+        <item>@drawable/berries</item> //44
+        <item>@drawable/beans</item> //45
+        <item>@drawable/bpepper</item> //46
+        <item>@drawable/bberries</item> //47
+
+        <item>@drawable/bepeas</item> //48
+        <item>@drawable/bleach</item> //49
+        <item>@drawable/blcheese</item> //50
+        <item>@drawable/bloranges</item> //51
+        <item>@drawable/blberry</item> //52
+        <item>@drawable/bokchoy</item> //53
+        <item>@drawable/boullon</item>//54
+        <item>@drawable/brnuts</item> //55
+        <item>@drawable/bread</item> //56
+        <item>@drawable/bcrumbs</item> //57
+        <item>@drawable/brkfood</item> //58
+        <item>@drawable/broccoli</item> //59
+        <item>@drawable/tomato</item> //60
+        <item>@drawable/brbrice</item> //61
+        <item>@drawable/brownie</item> //62
+        <item>@drawable/brsprouts</item> //63
+        <item>@drawable/wheat</item> //64
+        <item>@drawable/bulgur</item> //65
+        <item>@drawable/bun</item>//66
+        <item>@drawable/burnight</item> //67
+        <item>@drawable/burrito</item> //68
+        <item>@drawable/butter</item> //69
+        <item>@drawable/cabbage</item> //70
+        <item>@drawable/cake</item> //71
+        <item>@drawable/cicing</item> //72
+        <item>@drawable/cmix</item> //73
+        <item>@drawable/candy</item> //74
+        <item>@drawable/melon</item> //75
+        <item>@drawable/bcarrot</item> //76
+        <item>@drawable/nuts</item> //77
+        <item>@drawable/tomato</item>//78
+        <item>@drawable/yam</item> //79
+        <item>@drawable/cat</item> //80
+        <item>@drawable/catlitter</item> //81
+        <item>@drawable/cattreats</item> //82
+        <item>@drawable/catfish</item> //83
+        <item>@drawable/cauliflower</item> //84
+        <item>@drawable/cpepper</item> //85
+        <item>@drawable/celery</item> //86
+        <item>@drawable/grain</item> //87
+        <item>@drawable/cereal</item> //88
+        <item>@drawable/cerealbar</item> //89
+        <item>@drawable/chai</item>//90
+        <item>@drawable/charcoal</item> //91
+        <item>@drawable/propane</item> //92
+        <item>@drawable/chard</item> //93
+        <item>@drawable/tomato</item> //94
+        <item>@drawable/cheddar</item> //95
+        <item>@drawable/cherry</item> //96
+        <item>@drawable/chestnut</item> //97
+        <item>@drawable/chicken</item> //98
+        <item>@drawable/chickpea</item> //99
+        <item>@drawable/cpepper</item> //100
+        <item>@drawable/chocolate</item> //101
+        <item>@drawable/tomato</item>//102
+        <item>@drawable/cpowder</item> //103
+        <item>@drawable/chipdip</item> //104
+        <item>@drawable/chives</item> //105
+        <item>@drawable/cocoa</item> //106
+        <item>@drawable/cilantro</item> //107
+        <item>@drawable/cinnamon</item> //108
+        <item>@drawable/tin</item> //109
+        <item>@drawable/clove</item> //110
+        <item>@drawable/tonic</item> //111
+        <item>@drawable/cocacola</item> //112
+        <item>@drawable/coconut</item> //113
+        <item>@drawable/coffee</item>//114
+        <item>@drawable/filter</item> //115
+        <item>@drawable/coldmedicine</item> //116
+        <item>@drawable/bleaf</item> //117
+        <item>@drawable/compress</item> //118
+        <item>@drawable/conditioner</item> //119
+        <item>@drawable/cookie</item> //120
+        <item>@drawable/tomato</item> //121
+        <item>@drawable/cilantro</item> //122
+        <item>@drawable/corn</item> //123
+        <item>@drawable/cornchips</item> //124
+        <item>@drawable/cornmeal</item> //125
+        <item>@drawable/cosmetics</item>//126
+        <item>@drawable/cheddar</item> //127
+        <item>@drawable/cotton</item> //128
+        <item>@drawable/couscous</item> //129
+        <item>@drawable/crab</item> //130
+        <item>@drawable/cracker</item> //131
+        <item>@drawable/cranberry</item> //132
+        <item>@drawable/cream</item> //133
+        <item>@drawable/cocheese</item> //134
+        <item>@drawable/crisplettuce</item> //135
+        <item>@drawable/croissant</item> //136
+        <item>@drawable/cucumber</item> //137
+        <item>@drawable/cumin</item>//138
+        <item>@drawable/cup</item> //139
+        <item>@drawable/cutlery</item> //140
+        <item>@drawable/daikon</item> //141
+        <item>@drawable/date</item> //142
+        <item>@drawable/detergent</item> //143
+        <item>@drawable/diaper</item> //144
+        <item>@drawable/dill</item> //145
+        <item>@drawable/dsoap</item> //146
+        <item>@drawable/dogfood</item> //147
+        <item>@drawable/dogtreat</item> //148
+        <item>@drawable/donut</item> //149
+        <item>@drawable/dfruit</item>//150
+        <item>@drawable/earlgreytea</item> //151
+        <item>@drawable/edamame</item> //152
+        <item>@drawable/tomato</item> //153
+        <item>@drawable/eggwhite</item> //154
+        <item>@drawable/eggplant</item> //155
+        <item>@drawable/egg</item> //156
+        <item>@drawable/elecwater</item> //157
+        <item>@drawable/arugula</item> //158
+        <item>@drawable/englishmuffin</item> //159
+        <item>@drawable/facecleaner</item> //160
+        <item>@drawable/tissue</item> //161
+        <item>@drawable/tomato</item>//162
+        <item>@drawable/fantalemon</item> //163
+        <item>@drawable/fantaorange</item> //164
+        <item>@drawable/favabeans</item> //165
+        <item>@drawable/feminineproduct</item> //166
+        <item>@drawable/fennel</item> //167
+        <item>@drawable/fetacheese</item> //168
+        <item>@drawable/fig</item> //169
+        <item>@drawable/fishsticks</item> //170
+        <item>@drawable/flax</item> //171
+        <item>@drawable/tomato</item> //172
+        <item>@drawable/floss</item> //173
+        <item>@drawable/flour</item>//174
+        <item>@drawable/flower</item> //175
+        <item>@drawable/tomato</item> //176
+        <item>@drawable/oegg</item> //177
+        <item>@drawable/freezerbag</item> //178
+        <item>@drawable/frenchfries</item> //179
+        <item>@drawable/bread</item> //180
+        <item>@drawable/bfood</item> //181
+        <item>@drawable/frozenfruit</item> //182
+        <item>@drawable/frozenveg</item> //183
+        <item>@drawable/fruitjuice</item> //184
+        <item>@drawable/apple</item> //185
+        <item>@drawable/garbagebag</item>//186
+        <item>@drawable/garlic</item> //187
+        <item>@drawable/ginger</item> //188
+        <item>@drawable/tomato</item> //189
+        <item>@drawable/gcheese</item> //190
+        <item>@drawable/apple</item> //191
+        <item>@drawable/cerealbar</item> //192
+        <item>@drawable/gmix</item> //193
+        <item>@drawable/grapefruit</item> //194
+        <item>@drawable/grape</item> //195
+        <item>@drawable/gravy</item> //196
+        <item>@drawable/greenbean</item> //197
+        <item>@drawable/gbellpepper</item>//198
+        <item>@drawable/greens</item> //199
+        <item>@drawable/greetingcard</item> //200
+        <item>@drawable/cow</item> //201
+        <item>@drawable/turkey</item> //202
+        <item>@drawable/guava</item> //203
+        <item>@drawable/gum</item> //204
+        <item>@drawable/hchili</item> //205
+        <item>@drawable/hairgel</item> //206
+        <item>@drawable/hh</item> //207
+        <item>@drawable/honey</item> //208
+        <item>@drawable/melon</item> //209
+        <item>@drawable/hotdog</item>//210
+        <item>@drawable/hpepper</item> //211
+        <item>@drawable/hsauce</item> //212
+        <item>@drawable/hummus</item> //213
+        <item>@drawable/icecream</item> //214
+        <item>@drawable/insectrepellent</item> //215
+        <item>@drawable/ipotato</item> //216
+        <item>@drawable/jalapeno</item> //217
+        <item>@drawable/jam</item> //218
+        <item>@drawable/tomato</item> //219
+        <item>@drawable/jelly</item> //220
+        <item>@drawable/jicama</item> //221
+        <item>@drawable/juice</item>//222
+        <item>@drawable/jconcentrate</item> //223
+        <item>@drawable/kale</item> //224
+        <item>@drawable/ketchup</item> //225
+        <item>@drawable/bepeas</item> //226
+        <item>@drawable/tomato</item> //227
+        <item>@drawable/kiwi</item> //228
+        <item>@drawable/kohlrabi</item> //229
+        <item>@drawable/chai</item> //230
+        <item>@drawable/kumquat</item> //231
+        <item>@drawable/lavender</item> //232
+        <item>@drawable/leek</item> //233
+        <item>@drawable/fantalemon</item>//234
+        <item>@drawable/lemongrass</item> //235
+        <item>@drawable/lemon</item> //236
+        <item>@drawable/lentil</item> //237
+        <item>@drawable/lettuce</item> //238
+        <item>@drawable/limabeans</item> //239
+        <item>@drawable/limejuice</item> //240
+        <item>@drawable/lime</item> //241
+        <item>@drawable/tomato</item> //242
+        <item>@drawable/lipbalm</item> //243
+        <item>@drawable/lobster</item> //244
+        <item>@drawable/lotion</item> //245
+        <item>@drawable/lotus</item>//246
+        <item>@drawable/lunchmeat</item> //247
+        <item>@drawable/lychee</item> //248
+        <item>@drawable/mac</item> //249
+        <item>@drawable/macadamia</item> //250
+        <item>@drawable/makeup</item> //251
+        <item>@drawable/mandarin</item> //252
+        <item>@drawable/mango</item> //253
+        <item>@drawable/mangosteen</item> //254
+        <item>@drawable/margarine</item> //255
+        <item>@drawable/marjoram</item> //256
+        <item>@drawable/mpotato</item> //257
+        <item>@drawable/mayo</item>//258
+        <item>@drawable/melon</item> //259
+        <item>@drawable/milk</item> //260
+        <item>@drawable/mpowder</item> //261
+        <item>@drawable/millet</item> //262
+        <item>@drawable/mint</item> //263
+        <item>@drawable/lotion</item> //264
+        <item>@drawable/mop</item> //265
+        <item>@drawable/mouthwash</item> //266
+        <item>@drawable/mozarella</item> //267
+        <item>@drawable/tomato</item> //268
+        <item>@drawable/mung</item> //269
+        <item>@drawable/mushroom</item>//270
+        <item>@drawable/mussel</item> //271
+        <item>@drawable/mustard</item> //272
+        <item>@drawable/tomato</item> //273
+        <item>@drawable/napkin</item> //274
+        <item>@drawable/diaper</item> //275
+
+
+        <item>@drawable/navybean</item> //276
+        <item>@drawable/peach</item> //277
+        <item>@drawable/nonstickspray</item> //278
+        <item>@drawable/arugula</item> //279
+        <item>@drawable/brnuts</item> //280
+        <item>@drawable/yeast</item> //281
+        <item>@drawable/nuts</item>//282
+        <item>@drawable/oatmeal</item> //283
+        <item>@drawable/okra</item> //284
+        <item>@drawable/oliveoil</item> //285
+        <item>@drawable/olive</item> //286
+        <item>@drawable/onion</item> //287
+        <item>@drawable/oj</item> //288
+        <item>@drawable/tomato</item> //289
+        <item>@drawable/orange</item> //290
+        <item>@drawable/marjoram</item> //291
+        <item>@drawable/oyster</item> //292
+        <item>@drawable/painreliever</item> //293
+        <item>@drawable/pancakemix</item>//294
+        <item>@drawable/papaya</item> //295
+        <item>@drawable/papertowel</item> //296
+        <item>@drawable/paprika</item> //297
+        <item>@drawable/parsley</item> //298
+        <item>@drawable/parmesan</item> //299
+        <item>@drawable/tomato</item> //300
+        <item>@drawable/parsnip</item> //301
+        <item>@drawable/passionfruit</item> //302
+        <item>@drawable/pasta</item> //303
+        <item>@drawable/pastasauce</item> //304
+        <item>@drawable/pastry</item> //305
+        <item>@drawable/peachjuice</item> //306
+        <item>@drawable/peach</item>//307
+        <item>@drawable/peanutbutter</item> //308
+        <item>@drawable/peanut</item> //309
+        <item>@drawable/pear</item> //310
+        <item>@drawable/pea</item> //311
+        <item>@drawable/nuts</item> //312
+        <item>@drawable/pen</item> //313
+        <item>@drawable/peppermint</item> //314
+        <item>@drawable/pepper</item> //315
+        <item>@drawable/petshampoo</item> //316
+        <item>@drawable/pickle</item> //317
+        <item>@drawable/pie</item> //318
+        <item>@drawable/pinenut</item>//319
+        <item>@drawable/pineapple</item> //320
+        <item>@drawable/pineapplejuice</item> //321
+        <item>@drawable/grain</item> //322
+        <item>@drawable/pistachio</item> //323
+        <item>@drawable/pita</item> //324
+        <item>@drawable/tomato</item> //325
+        <item>@drawable/pizza</item> //326
+        <item>@drawable/tomato</item> //327
+        <item>@drawable/pizza</item> //328
+        <item>@drawable/plantain</item> //329
+        <item>@drawable/tin</item> //330
+        <item>@drawable/tomato</item>//331
+        <item>@drawable/plum</item> //332
+        <item>@drawable/pomegranate</item> //333
+        <item>@drawable/popcorn</item> //334
+        <item>@drawable/poppyseed</item> //335
+        <item>@drawable/popsicle</item> //336
+        <item>@drawable/postagestamp</item> //337
+        <item>@drawable/chips</item> //338
+        <item>@drawable/potato</item> //339
+        <item>@drawable/preparedfood</item> //340
+        <item>@drawable/prescription</item> //341
+        <item>@drawable/jam</item> //342
+        <item>@drawable/pretzel</item>//343
+        <item>@drawable/paper</item> //344
+        <item>@drawable/fetacheese</item> //345
+        <item>@drawable/prune</item> //346
+        <item>@drawable/puff</item> //347
+        <item>@drawable/pumpkin</item> //348
+        <item>@drawable/quail</item> //349
+        <item>@drawable/quince</item> //350
+        <item>@drawable/quinoa</item> //351
+        <item>@drawable/purplelettuce</item> //352
+        <item>@drawable/radish</item> //353
+        <item>@drawable/raisin</item> //354
+        <item>@drawable/ranch</item>//355
+        <item>@drawable/randomimpulsebuy</item> //356
+        <item>@drawable/raspberry</item> //357
+        <item>@drawable/tomato</item> //358
+        <item>@drawable/razor</item> //359
+        <item>@drawable/readybakebread</item> //360
+        <item>@drawable/redbean</item> //361
+        <item>@drawable/bpeppers</item> //362
+        <item>@drawable/redcabbage</item> //363
+        <item>@drawable/redonion</item> //364
+        <item>@drawable/redpepper</item> //365
+        <item>@drawable/tomato</item> //366
+        <item>@drawable/redwinevinegar</item>//367
+        <item>@drawable/relish</item> //368
+        <item>@drawable/rhubharb</item> //369
+        <item>@drawable/rice</item> //370
+        <item>@drawable/tomato</item> //371
+        <item>@drawable/ricemilk</item> //372
+        <item>@drawable/ricevinegar</item> //373
+        <item>@drawable/tomato</item> //374
+        <item>@drawable/ricotta</item> //375
+        <item>@drawable/romaine</item> //376
+        <item>@drawable/rosemary</item> //377
+        <item>@drawable/saffron</item> //378
+        <item>@drawable/saladdressing</item>//379
+        <item>@drawable/salmon</item> //380
+        <item>@drawable/salsa</item> //381
+        <item>@drawable/salt</item> //382
+        <item>@drawable/sandwichbag</item> //383
+        <item>@drawable/sandwichcheese</item> //384
+
+        <item>@drawable/tomato</item> //385
+        <item>@drawable/seed</item> //386
+        <item>@drawable/sesameoil</item> //387
+        <item>@drawable/shallot</item>//388
+        <item>@drawable/shampoo</item> //389
+        <item>@drawable/shavingcream</item> //390
+        <item>@drawable/shortening</item> //391
+        <item>@drawable/shrimp</item> //392
+        <item>@drawable/slicedbread</item> //393
+        <item>@drawable/tomato</item> //394
+        <item>@drawable/tomato</item> //395
+        <item>@drawable/soap</item> //396
+        <item>@drawable/sodapop</item> //397
+        <item>@drawable/sorbet</item> //398
+        <item>@drawable/tomato</item> //399
+        <item>@drawable/sorgum</item>//400
+        <item>@drawable/soup</item> //401
+        <item>@drawable/sourcream</item> //402
+        <item>@drawable/soybutter</item> //403
+        <item>@drawable/tomato</item> //404
+        <item>@drawable/soymilk</item> //405
+        <item>@drawable/soysauce</item> //406
+        <item>@drawable/soyyogurt</item> //407
+        <item>@drawable/spaghetti</item> //408
+        <item>@drawable/tomato</item> //409
+        <item>@drawable/spices</item> //410
+        <item>@drawable/spinach</item> //411
+        <item>@drawable/splitpeas</item>//412
+        <item>@drawable/sponge</item> //413
+        <item>@drawable/elecwater</item> //414
+        <item>@drawable/tomato</item> //415
+        <item>@drawable/sprout</item> //416
+        <item>@drawable/squash</item> //417
+        <item>@drawable/steak</item> //418
+        <item>@drawable/bbq</item> //419
+        <item>@drawable/stevia</item> //420
+        <item>@drawable/stirfry</item> //421
+        <item>@drawable/strawberry</item> //422
+        <item>@drawable/sugar</item> //423
+        <item>@drawable/tomato</item>//424
+        <item>@drawable/sunblock</item> //425
+        <item>@drawable/sunflower</item> //426
+        <item>@drawable/supplement</item> //427
+        <item>@drawable/corn</item> //428
+        <item>@drawable/sweetpotato</item> //429
+        <item>@drawable/swiss</item> //430
+        <item>@drawable/tomato</item> //431
+        <item>@drawable/syrup</item> //432
+        <item>@drawable/taco</item> //433
+        <item>@drawable/tahini</item> //434
+        <item>@drawable/brkfood</item> //435
+        <item>@drawable/tangerine</item> //436
+        <item>@drawable/sweetpotato</item>//437
+        <item>@drawable/tatertot</item> //438
+        <item>@drawable/tea</item> //439
+        <item>@drawable/tomato</item> //440
+        <item>@drawable/tilapia</item> //441
+        <item>@drawable/tinnedmeat</item> //442
+        <item>@drawable/tofu</item> //443
+        <item>@drawable/tp</item> //444
+        <item>@drawable/tomatillo</item> //445
+        <item>@drawable/tomatosauce</item> //446
+        <item>@drawable/tomato</item> //447
+        <item>@drawable/toothpaste</item> //448
+        <item>@drawable/tortilla</item>//449
+        <item>@drawable/tomato</item> //450
+        <item>@drawable/nuts</item> //451
+        <item>@drawable/tuna</item> //452
+        <item>@drawable/tomato</item> //453
+        <item>@drawable/turkey</item> //454
+        <item>@drawable/tomato</item> //455
+        <item>@drawable/turmeric</item> //456
+        <item>@drawable/turnip</item> //457
+        <item>@drawable/tomato</item> //458
+        <item>@drawable/brkfood</item> //459
+        <item>@drawable/tomato</item> //460
+        <item>@drawable/tomato</item>//461
+        <item>@drawable/vacuum</item> //462
+        <item>@drawable/vanilla</item> //463
+        <item>@drawable/worcestershire</item> //464
+        <item>@drawable/vegetableoil</item> //465
+        <item>@drawable/cream</item> //466
+        <item>@drawable/vegetable</item> //467
+        <item>@drawable/tomato</item> //468
+        <item>@drawable/veggieburger</item> //469
+        <item>@drawable/tomato</item> //470
+        <item>@drawable/burrito</item> //471
+        <item>@drawable/hotdog</item> //472
+        <item>@drawable/veggiepizza</item>//473
+        <item>@drawable/veggies</item> //474
+        <item>@drawable/bvinegar</item> //475
+        <item>@drawable/supplement</item> //476
+        <item>@drawable/waffle</item> //477
+        <item>@drawable/walnut</item> //478
+        <item>@drawable/tomato</item> //479
+        <item>@drawable/waterbottle</item> //480
+        <item>@drawable/chestnut</item> //481
+        <item>@drawable/arugula</item> //482
+        <item>@drawable/watermelon</item> //483
+        <item>@drawable/tin</item> //484
+        <item>@drawable/wheatgluten</item>//485
+        <item>@drawable/whippedcream</item> //486
+        <item>@drawable/tomato</item> //487
+        <item>@drawable/whitebean</item> //488
+        <item>@drawable/whiterice</item> //489
+        <item>@drawable/whitevinegar</item> //490
+        <item>@drawable/wildrice</item> //491
+        <item>@drawable/wipe</item> //492
+        <item>@drawable/worcestershire</item> //493
+        <item>@drawable/yeast</item> //494
+        <item>@drawable/yellowonion</item> //495
+        <item>@drawable/yogurt</item> //496
+        <item>@drawable/zucchini</item>//497
+
+    </integer-array>
+</resources>

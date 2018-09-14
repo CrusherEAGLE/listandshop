@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#305252</color>
+    <color name="colorPrimaryDark">#373E40</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="calendar">#51A3A3</color>
+    <color name="names">#B8D8D8</color>
+    <color name="fondo">#EEF5DB</color>
+    <color name="white">#ffffff</color>
+    <color name="backgroundlist">#85BDBF</color>
+    <color name="grey">#b4b7b5</color>
+    <color name="odd">#eee</color>
+    <color name="even">#fff</color>
+    <color name="devider">#ccc</color>
+    <color name="blue">#2c7380</color>
+    <color name="purple">#7291cf</color>
+    <color name="backgroundwhite">#EFF5FB</color>
+</resources>

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">List and Shop</string>
+    <string name="search_hint">Type a few letters of what you're looking for!</string>
+</resources>
